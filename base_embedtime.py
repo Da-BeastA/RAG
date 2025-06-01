@@ -1,3 +1,4 @@
+#DISPAYS THE TIME TAKEN TO GENERATE 5 EMBEDDINGS...
 import requests
 import numpy as np
 import time
