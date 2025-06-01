@@ -1,0 +1,8 @@
+# Sentence-transformers for mxbai-embed-large embeddings
+sentence-transformers
+faiss-cpu
+numpy
+tqdm
+
+requests
+weaviate-client

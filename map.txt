@@ -1,0 +1,5 @@
+rag/
+├── localrag.py       # Main RAG script
+├── vault.txt         # Your input document (excluded from Git)
+├── .gitignore
+└── README.md

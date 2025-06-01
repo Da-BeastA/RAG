@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv
+*.sqlite3
+
+# VSCode or IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Pyenv environments
+.python-version
+
+# Secrets or data
+vault.txt
+
+# Ignore data files
+data/
+*.db
+*.log
+*.lock
